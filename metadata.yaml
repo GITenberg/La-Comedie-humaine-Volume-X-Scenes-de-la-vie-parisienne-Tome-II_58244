@@ -1,0 +1,35 @@
+_repo: La-Comedie-humaine-Volume-X-Scenes-de-la-vie-parisienne-Tome-II_58244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2018-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58244'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La Comédie humaine - Volume X
+
+  Scènes de la vie parisienne - Tome II'
+url: http://www.gutenberg.org/ebooks/58244
